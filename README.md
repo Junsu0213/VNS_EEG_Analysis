@@ -6,6 +6,8 @@ Here is a simple repo for comparing pre- and post-VNS stimulation EEG.
 
 ![pipeline](https://github.com/Junsu0213/VNS_EEG_Analysis/assets/128777619/8aa12089-4334-44b7-a072-08dd97663cfc)
 
+Flow chart
+
 </div>
 
 ## 1. Installation
