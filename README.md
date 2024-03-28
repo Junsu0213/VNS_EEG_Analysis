@@ -8,13 +8,14 @@ Here is a simple repo for comparing pre- and post-VNS stimulation EEG.
 
 </div>
 
+## 1. Installation
 #### Environment
 * Python == 2.8.2
 * MNE == 1.2.0
 * mne-connectivity == 0.5.0
 * brainflow == 5.6.1
 
-## 3. Directory structure
+## 2. Directory structure
 ```bash
 ├── Analysis
 │   ├── data_analysis.py
